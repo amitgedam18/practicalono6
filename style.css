@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    color:black(255, 0, 0);
+    background-image : linear-gradient(red,rgb(0, 89, 255))
+
+ }
+ div{
+    border: 30px solid hsl(330, 100%, 49%);
+    width:50%;
+    border-radius: 20%;
+    height: 400%;
+    background-image: radial-gradient(#76afb7,pink);
+}
+label{
+    margin-bottom: 30%;
+     padding: 30%;
+}
